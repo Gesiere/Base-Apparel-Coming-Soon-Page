@@ -127,6 +127,11 @@ body{
     cursor: pointer;
 }
 
+.input-container .btn:hover{
+    opacity: 0.4;
+    transition: background 3s ease-out;
+}
+
 button{
     border: none;
 }
